@@ -1,0 +1,38 @@
+* {
+  /*border: 1px solid #ffffff;*/
+  margin: 0;
+  padding: 0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.cabecalho {
+  background-color: rgb(160, 73, 14);
+}
+.cabecalho ul li a {
+    color: rgb(241, 229, 113);
+}
+.conteudo {
+  background-color: rgb(241, 229, 113);
+}
+.rodape {
+  background-color: rgb(160, 73, 14);
+  color: black;
+}
+#inicio_cardapio{
+    color: rgb(241, 229, 113);
+}
+
+.cardapio {
+    margin-bottom: 40px; 
+}
+.cardapio p {
+    margin-left: 0;   
+    margin-right: 0;
+    margin-top: 4px;  
+    margin-bottom: 4px; 
+    background-color: rgb(241, 229, 113)    ;
+}
+.rodape{
+
+    background-color: rgb(160, 73, 14);
+}
